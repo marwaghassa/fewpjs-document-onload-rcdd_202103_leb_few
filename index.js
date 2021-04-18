@@ -2,7 +2,7 @@
 
 
 
-document.addEventListener(DOMContentLoaded,function(e){
+document.addEventListener("DOMContentLoaded",function(e){
   let par=document.getElementById('text');
  par.textcontent= "This is really cool!";
 });
